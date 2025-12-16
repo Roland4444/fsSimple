@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fqe7Ri8bJ1g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rosa\\source\\fs\\webApp\\FSharpWebApp\\FSharpWebApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosa\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}
