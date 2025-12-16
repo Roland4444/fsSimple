@@ -41,3 +41,4 @@ C:\Users\Rosa\source\fs\webApp\FSharpWebApp\obj\Debug\net8.0\FSharpWebApp.pdb
 C:\Users\Rosa\source\fs\webApp\FSharpWebApp\obj\Debug\net8.0\FSharpWebApp.genruntimeconfig.cache
 C:\Users\Rosa\source\fs\webApp\FSharpWebApp\obj\Debug\net8.0\ref\FSharpWebApp.dll
 C:\Users\Rosa\source\fs\webApp\FSharpWebApp\bin\Debug\net8.0\wwwroot\index.html
+C:\Users\Rosa\source\fs\webApp\FSharpWebApp\obj\Debug\net8.0\FSharpWebApp.sourcelink.json
